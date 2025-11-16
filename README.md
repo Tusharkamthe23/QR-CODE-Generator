@@ -30,7 +30,9 @@ A Python-based project designed to generate QR codes with ease 🚀. The primary
 
 ## Demo/Screenshots
 https://qr-code--generator.streamlit.app
-📸 [Insert screenshots of the project in action]
+📸 
+<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/6ab6eb5b-a966-4a4c-9a57-e56273118520" />
+
 
 ![alt text](image.png)
 
